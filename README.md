@@ -1,7 +1,7 @@
 > ## Olá, meu nome é Lucca Romano!
 > 
 > 🖥️ RPA e desenvolvimento Python. <br>
-> 🌎 Brazil, Mogi das Cruzes.
+> 🌎 Brasil, Mogi das Cruzes.
 > 
 > ## 💻 Minhas Especialidades
 > <div style="display: inline-block"><br>
