@@ -29,6 +29,7 @@
 >                   
 > 
 > ## 📜 Conquistas Acadêmicas
+> 📚PUC - Pós Graduação em Hiperautomação e RPA (Graduando) <br>
 > 🎓UMC - Análise e Desenvolvimento de Sistemas (Concluído em 2024) <br>
 > 👨‍🎓ETEC PV - Administração (Concluído em 2022)
 > 
