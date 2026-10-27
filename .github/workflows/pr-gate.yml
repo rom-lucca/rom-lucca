@@ -1,0 +1,33 @@
+# Managed by pr-review-kit (https://github.com/rom-lucca/pr-review-kit) - do not edit here.
+# Reinstall or update with: python ~/.claude/pr-review-kit/src/install.py repo .
+# The AI review itself is the `pr-reviewer` commit status, published by the Claude Code
+# hook after the local pr-reviewer agent approves the exact commit that was pushed.
+name: pr-gate
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited, ready_for_review]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  conventions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+      - name: Branch, PR title and commits follow the conventions
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          HEAD_REF: ${{ github.head_ref }}
+          BASE_REF: ${{ github.base_ref }}
+        run: >-
+          python3 .github/pr-gate/pr_gate.py conventions
+          --base "origin/$BASE_REF" --branch "$HEAD_REF" --title "$PR_TITLE"
