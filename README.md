@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvo+solu%C3%A7%C3%B5es+em+Python;Do+problema+ao+deploy;APIs+%C2%B7+integra%C3%A7%C3%B5es+%C2%B7+dados+%C2%B7+IA" alt="Desenvolvo soluções em Python · Do problema ao deploy · APIs, integrações, dados e IA"/>
 
 <a href="https://www.linkedin.com/in/lucca-romano-780b82286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/isntlukv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -14,7 +13,7 @@
 Sou o Lucca, desenvolvedor Python de Mogi das Cruzes (SP).
 Eu desenvolvo **soluções**: entendo o problema, desenho a arquitetura e entrego software testado e funcionando.
 
-🎓 Análise e Desenvolvimento de Sistemas, UMC (2024) · Pós-graduação, PUC (em andamento)
+🎓 Análise e Desenvolvimento de Sistemas, UMC (2024)
 
 <table>
 <tr>
@@ -48,32 +47,31 @@ Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a prob
 
 <table><tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" title="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="44" alt="Java" title="Java"/><br/><sub>Java</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="44" alt="PHP" title="PHP"/><br/><sub>PHP</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="44" alt="PowerShell" title="PowerShell"/><br/><sub>PowerShell</sub></td>
 </tr></table>
 
-### Backend
+### Backend e APIs
 
 <table><tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" title="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="44" alt="Spring" title="Spring"/><br/><sub>Spring</sub></td>
-</tr></table>
-
-### Frontend
-
-<table><tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML" title="HTML"/><br/><sub>HTML</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS" title="CSS"/><br/><sub>CSS</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="44" alt="Bootstrap" title="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="44" alt="Postman" title="Postman"/><br/><sub>Postman</sub></td>
 </tr></table>
 
 ### Banco de dados
 
 <table><tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="44" alt="Oracle Database" title="Oracle Database"/><br/><sub>Oracle DB</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" title="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" title="MySQL"/><br/><sub>MySQL</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite" title="SQLite"/><br/><sub>SQLite</sub></td>
+</tr></table>
+
+### Databricks
+
+<table><tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Databricks" title="Databricks"/><br/><sub>Databricks</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Databricks Apps" title="Databricks Apps"/><br/><sub>Databricks Apps</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Lakebase" title="Lakebase"/><br/><sub>Lakebase</sub></td>
 </tr></table>
 
 ### Dados e IA
@@ -94,6 +92,7 @@ Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a prob
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" title="Linux"/><br/><sub>Linux</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="44" alt="Windows" title="Windows"/><br/><sub>Windows</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" title="VS Code"/><br/><sub>VS Code</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=eclipse" width="44" alt="Eclipse" title="Eclipse"/><br/><sub>Eclipse</sub></td>
 </tr></table>
 
 ## 📂 Projetos em destaque
