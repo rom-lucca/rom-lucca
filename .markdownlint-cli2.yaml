@@ -1,0 +1,7 @@
+# O README de perfil depende de HTML inline e de imagens no topo.
+config:
+  MD013: false # linhas longas (URLs das imagens)
+  MD033: false # HTML inline
+  MD041: false # primeira linha não é título
+ignores:
+  - ".github/**"
