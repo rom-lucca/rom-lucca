@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f3b6e,100:3776ab&height=170&section=header&text=Lucca%20Romano&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Desenvolvedor%20Python&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Lucca Romano — Desenvolvedor Python"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f3b6e,100:3776ab&height=170&section=header&text=Lucca%20Romano&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Desenvolvedor%20Python%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=55&descSize=18" alt="Cabeçalho de Lucca Romano" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvo+solu%C3%A7%C3%B5es+em+Python;Do+problema+ao+deploy;APIs+%C2%B7+integra%C3%A7%C3%B5es+%C2%B7+dados+%C2%B7+IA" alt="Desenvolvo soluções em Python · Do problema ao deploy · APIs, integrações, dados e IA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Transformo+processos+em+solu%C3%A7%C3%B5es+de+software;Automatiza%C3%A7%C3%A3o%2C+dados%2C+APIs+e+sistemas" alt="Transformo processos em soluções de software" />
 
 <a href="https://www.linkedin.com/in/lucca-romano-780b82286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -10,38 +10,20 @@
 
 ## 👋 Sobre mim
 
-Sou o Lucca, desenvolvedor Python de Mogi das Cruzes (SP).
-Eu desenvolvo **soluções**: entendo o problema, desenho a arquitetura e entrego software testado e funcionando.
+Sou o Lucca, desenvolvedor Python de Mogi das Cruzes (SP), formado em Análise e Desenvolvimento de Sistemas pela UMC (2024). Gosto de entender como um processo funciona e transformar essa necessidade em uma solução confiável, clara e simples de manter.
 
-🎓 Análise e Desenvolvimento de Sistemas, UMC (2024)
+Tenho experiência no desenvolvimento de soluções que conectam sistemas, reduzem tarefas manuais e tornam dados mais úteis para o dia a dia. Atuo desde a compreensão do problema e organização da solução até a implementação, testes e entrega.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## 💡 Experiência em soluções
 
-<b>🧩 Soluções sob medida</b>
+- **Automação de processos:** automatizo rotinas repetitivas e tarefas operacionais, com atenção ao tratamento de erros, reexecução e confiabilidade.
+- **Pipelines de dados:** construo fluxos para coletar, validar, transformar e consolidar dados de diferentes fontes, preparando-os para análise e uso em sistemas.
+- **Integração entre sistemas:** conecto plataformas e serviços por meio de APIs, sincronizando informações e lidando com falhas e registros duplicados.
+- **Backends e APIs:** desenvolvo serviços em Python para expor funcionalidades, aplicar regras de negócio e integrar sistemas existentes.
+- **Dados e IA aplicada:** trabalho com análise e enriquecimento de dados e exploro LLMs, RAG e agentes para apoiar necessidades concretas.
+- **Qualidade e entrega:** incorporo testes, versionamento e automação de CI/CD para tornar as mudanças mais seguras e facilitar sua manutenção.
 
-Do levantamento do problema ao deploy, com testes e CI desde o primeiro commit.
-
-</td>
-<td width="33%" valign="top">
-
-<b>🔌 APIs e integrações</b>
-
-Backends em Python que conectam ERPs, CRMs e serviços externos.
-
-</td>
-<td width="33%" valign="top">
-
-<b>📊 Dados e IA</b>
-
-Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a problemas reais.
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Stack
+## 🛠️ Tecnologias
 
 ### Linguagens
 
@@ -57,21 +39,13 @@ Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a prob
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="44" alt="Postman" title="Postman"/><br/><sub>Postman</sub></td>
 </tr></table>
 
-### Banco de dados
+### Bancos de dados
 
 <table><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="44" alt="Oracle Database" title="Oracle Database"/><br/><sub>Oracle DB</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" title="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" title="MySQL"/><br/><sub>MySQL</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite" title="SQLite"/><br/><sub>SQLite</sub></td>
-</tr></table>
-
-### Databricks
-
-<table><tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Databricks" title="Databricks"/><br/><sub>Databricks</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Databricks Apps" title="Databricks Apps"/><br/><sub>Databricks Apps</sub></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="40" alt="Lakebase" title="Lakebase"/><br/><sub>Lakebase</sub></td>
 </tr></table>
 
 ### Dados e IA
@@ -83,6 +57,8 @@ Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a prob
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/claude" width="40" alt="Claude" title="Claude"/><br/><sub>Claude</sub></td>
 </tr></table>
 
+Também tenho contato com **Databricks**, **Databricks Apps** e **Lakebase**.
+
 ### DevOps e ferramentas
 
 <table><tr>
@@ -92,64 +68,14 @@ Coleta, tratamento e análise de dados, com LLMs, RAG e agentes aplicados a prob
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" title="Linux"/><br/><sub>Linux</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="44" alt="Windows" title="Windows"/><br/><sub>Windows</sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" title="VS Code"/><br/><sub>VS Code</sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=eclipse" width="44" alt="Eclipse" title="Eclipse"/><br/><sub>Eclipse</sub></td>
 </tr></table>
-
-## 📂 Projetos em destaque
-
-> Clique em um projeto para ver os detalhes.
-
-<details>
-<summary><b>Engineering Guild</b> · plataforma que coordena um time de agentes de IA no desenvolvimento de software</summary>
-<br/>
-
-Transforma uma ideia em trabalho estruturado (projeto → feature → user story → tarefa), distribui para agentes especialistas e só dá algo por concluído com evidência de testes.
-
-`Python` `uv` `Claude Code` · 🔒 privado
-</details>
-
-<details>
-<summary><b>players_classify</b> · base de dados de jogadores de futebol com classificação de estilo por IA</summary>
-<br/>
-
-Pipeline que coleta, normaliza e enriquece dados do Transfermarkt e do Sofascore. Sobre essa base, um modelo classifica a posição real e o estilo de jogo de cada atleta.
-
-`Python` `httpx` `BeautifulSoup` `SQLite` · 🔒 privado
-</details>
-
-<details>
-<summary><b>pr-review-kit</b> · revisão automática de pull requests antes da revisão humana</summary>
-<br/>
-
-Valida convenções, CI e uma revisão por IA em cada PR. Um hook impede o push de commits sem aprovação.
-
-`Python` `GitHub Actions` · 🔒 privado
-</details>
-
-<details>
-<summary><b>Integração ERP → CRM</b> · funcionalidade que o sistema não oferecia nativamente</summary>
-<br/>
-
-Cria tarefas no CRM Ploomes a partir de dados do ERP Sankhya, com controle de repetições e de falhas.
-
-`Python` `APIs REST` · 🔒 privado
-</details>
-
-<details>
-<summary><b>nvidia-cache-cleanup</b> · limpeza agendada do cache de drivers da NVIDIA no Windows</summary>
-<br/>
-
-Remove os instaladores antigos que o app da NVIDIA acumula indefinidamente no disco.
-
-`PowerShell` · [ver repositório →](https://github.com/rom-lucca/nvidia-cache-cleanup)
-</details>
 
 ## 📈 GitHub
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rom-lucca&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&locale=pt-br"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rom-lucca&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark_blue&locale=pt-br"/>
   <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=rom-lucca&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&locale=pt-br"/>
 </picture>
 <picture>
